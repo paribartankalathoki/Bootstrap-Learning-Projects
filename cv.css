@@ -1,0 +1,41 @@
+html,
+body{
+	background: url(/home/yubaraj/Downloads/pexels-photo-464320.jpeg) no-repeat center center;
+	background-size: cover;
+}
+.col-md-5{
+	color: white;
+}
+a{
+	color: white;
+}
+h6{
+	text-decoration: underline;
+}
+hr.style7 {
+	margin-right: 260px;
+	border-top: 1px solid #8c8b8b;
+	border-bottom: 1px solid #fff;
+}
+.img{
+	height: 25px;
+	cursor: pointer;
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+.image{
+	background: blue;
+}
+#about{
+	margin-left: 178px;
+	margin-top: 30px;
+}
+
+.about-text{
+	background: rgba(0,0,0,0.8);
+	color: white;
+	padding: 35px;
+}
+.link{
+	text-decoration: underline;
+}

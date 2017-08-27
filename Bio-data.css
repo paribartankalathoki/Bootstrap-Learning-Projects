@@ -1,0 +1,28 @@
+html,
+body{
+}
+.con{
+  height: 100vh;
+}
+.navbar-collapse {
+    margin-right: 138px;}
+#cover{
+ background: url(/home/yubaraj/workspace/my-first-repo/bootstrap4/images/pexels-photo-440731.jpeg) no-repeat bottom center fixed;
+ background-size: cover;
+ height: 70vh;
+ text-align: center;
+}
+.text{
+	padding-top: 30px;
+}
+img{
+	margin-top: 20px;
+	margin-left: 100px;
+}
+.lead{
+	margin-top: 20px;
+	text-align: justify;
+}
+.link{
+	text-decoration: underline;
+}
