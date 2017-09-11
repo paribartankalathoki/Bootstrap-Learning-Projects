@@ -7,7 +7,7 @@ img{
 	max-width: 100%;
 }
 /*#cover*/
-#cover{
+/*#cover{
 	background: #222 url('/home/yubaraj/Downloads/pexels-photo-376368.jpeg') center center no-repeat;
 	background-size: cover;
 	color: white;
@@ -19,7 +19,7 @@ img{
 #cover-caption{
 	width: 100%;
 }
-
+*/
 .section-content{
 	padding: 5rem 0;
 }
